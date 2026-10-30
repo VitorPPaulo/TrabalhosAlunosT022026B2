@@ -218,7 +218,4 @@ public class Principal {
 		listaLivros.add(livro);
 		System.out.println("Livro cadastrado com sucesso!");
 	}
-	
-	
-
 }
